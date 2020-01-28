@@ -24,7 +24,7 @@ SECRET_KEY = 'mx62vpa-0k7+&f9*lfcti6+mn=1eg0)508htw81w_$w^83_eqq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.alonezd.com']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
