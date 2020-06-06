@@ -3,7 +3,7 @@ bs4==0.0.1
 confusable-homoglyphs==3.2.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==2.0
+Django==2.2.13
 django-bootstrap3==12.0.3
 django-ckeditor==5.8.0
 django-crispy-forms==1.8.1
