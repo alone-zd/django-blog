@@ -18,7 +18,7 @@ et-xmlfile==1.0.1
 future==0.18.2
 httplib2==0.18.0
 jdcal==1.4.1
-lxml==4.4.2
+lxml==4.6.2
 Markdown==3.1.1
 MarkupPy==1.14
 odfpy==1.4.1
